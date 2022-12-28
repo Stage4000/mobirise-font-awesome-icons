@@ -1,1 +1,1 @@
-This repository is a fork of Witsec's mobirise font awesome extension, it was created only for the purpose of contributing to the main repository and is no longer up to date. Please see Mark's latest releases https://github.com/witsec/mobirise-font-awesome-icons
+This repository is a fork of Witsec's mobirise font awesome extension, it was created only for the purpose of contributing to the main repository and is no longer up to date. Please see Mark's latest releases: https://github.com/witsec/mobirise-font-awesome-icons or https://witsec.nl
